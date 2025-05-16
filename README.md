@@ -85,14 +85,3 @@ The final report includes:
 
 Unit and integration tests are included. Run with:
 
-```bash
-pytest
-```
-
-## 👨‍💻 Contributing
-
-We welcome contributions! Please fork the repository and submit a pull request with clear descriptions of changes.
-
-## 📄 License
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
