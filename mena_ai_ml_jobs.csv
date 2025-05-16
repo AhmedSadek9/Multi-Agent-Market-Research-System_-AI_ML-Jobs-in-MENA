@@ -1,0 +1,17 @@
+title,company,location,platform,posted_date,url,skills,experience_level,salary
+AI Researcher,Tech Company 1,UAE,LinkedIn,2025-05-16,https://linkedin.com/job/0,"['tensorflow', 'python', 'r']",Not specified,Not specified
+AI Engineer,Tech Company 2,Egypt,LinkedIn,2025-05-09,https://linkedin.com/job/1,"['tensorflow', 'python', 'r']",Not specified,Not specified
+AI Researcher,Tech Company 3,Saudi Arabia,LinkedIn,2025-05-12,https://linkedin.com/job/2,"['tensorflow', 'python', 'r']",Not specified,$43396-$62156
+AI Engineer,Tech Company 4,UAE,LinkedIn,2025-04-25,https://linkedin.com/job/3,"['tensorflow', 'python', 'r']",Not specified,Not specified
+AI Researcher,Tech Company 5,UAE,LinkedIn,2025-04-28,https://linkedin.com/job/4,"['tensorflow', 'python', 'r']",Not specified,Not specified
+Machine Learning Engineer,AI Solutions 1,Egypt,Bayt,2025-05-15,https://bayt.com/job/0,"['pytorch', 'r']",Not specified,Not specified
+Machine Learning Engineer,AI Solutions 2,Kuwait,Bayt,2025-05-14,https://bayt.com/job/1,"['pytorch', 'r']",Not specified,Not specified
+Machine Learning Engineer,AI Solutions 3,Qatar,Bayt,2025-05-09,https://bayt.com/job/2,"['pytorch', 'r']",Not specified,Not specified
+Machine Learning Engineer,AI Solutions 4,Kuwait,Bayt,2025-04-29,https://bayt.com/job/3,"['pytorch', 'r']",Not specified,Not specified
+Data Engineer,Data Co 1,Morocco,Wuzzuf,2025-04-24,https://wuzzuf.net/job/0,"['python', 'sql', 'r']",Not specified,Not specified
+Data Scientist,Data Co 2,Jordan,Wuzzuf,2025-05-09,https://wuzzuf.net/job/1,"['python', 'sql', 'r']",Not specified,$40328-$122357
+Data Engineer,Data Co 3,Jordan,Wuzzuf,2025-04-28,https://wuzzuf.net/job/2,"['python', 'sql', 'r']",Not specified,Not specified
+Ai Developer,Global Tech 1,Qatar,Glassdoor,2025-04-21,https://glassdoor.com/job/0,['r'],Not specified,Not specified
+Ai Architect,Global Tech 2,UAE,Glassdoor,2025-04-22,https://glassdoor.com/job/1,['r'],Not specified,$77400-$125674
+Ai Developer,Global Tech 3,Saudi Arabia,Glassdoor,2025-04-24,https://glassdoor.com/job/2,['r'],Not specified,Not specified
+Ai Architect,Global Tech 4,Bahrain,Glassdoor,2025-05-06,https://glassdoor.com/job/3,['r'],Not specified,Not specified

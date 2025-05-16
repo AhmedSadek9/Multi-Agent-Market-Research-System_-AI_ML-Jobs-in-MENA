@@ -1,0 +1,40 @@
+{
+  "top_titles": {
+    "Machine Learning Engineer": 4,
+    "AI Researcher": 3,
+    "AI Engineer": 2,
+    "Data Engineer": 2,
+    "Ai Developer": 2,
+    "Ai Architect": 2,
+    "Data Scientist": 1
+  },
+  "top_skills": {
+    "r": 16,
+    "python": 8,
+    "tensorflow": 5,
+    "pytorch": 4,
+    "sql": 3
+  },
+  "location_dist": {
+    "UAE": 4,
+    "Egypt": 2,
+    "Saudi Arabia": 2,
+    "Kuwait": 2,
+    "Qatar": 2,
+    "Jordan": 2,
+    "Morocco": 1,
+    "Bahrain": 1
+  },
+  "experience_dist": {
+    "Not specified": 16
+  },
+  "platform_dist": {
+    "LinkedIn": 5,
+    "Bayt": 4,
+    "Glassdoor": 4,
+    "Wuzzuf": 3
+  },
+  "time_trends": {
+    "note": "Time trend analysis requires historical data"
+  }
+}
